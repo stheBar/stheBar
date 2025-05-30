@@ -25,15 +25,6 @@
   - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  
 
-
-## 📈 Projetos Destacados
-
-Aqui estão alguns dos projetos nos quais trabalhei e que mostram minha experiência e habilidades:
-
-- **Projeto A**: 
-- **Projeto B**: 
-- **Projeto C**:
-
 ## 🌐 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/sthefany-marim/)
