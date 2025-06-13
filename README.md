@@ -28,8 +28,6 @@
 ## 🌐 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/sthefany-marim/)
-- [GitHub](https://github.com/stheBar/)
-
 
 ---
 
