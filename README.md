@@ -1,9 +1,9 @@
 
-# 👋 Olá, Eu Sou Sthefany!
+# Olá, Eu Sou Sthefany!
 
 🔍 Faço graduação em Sistemas Para Internet na UFSM! Bem-vindo ao meu perfil!
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 - 🏫 Técnico em Informática integrado ao ensino médio
 - 🎓 Graduanda em **Sistemas Para Internet**
